@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at levon Techno Solutionas as a Full stack developer on **BareKaab** Project
 
-- 🌱 I’m currently learning **Mern-Stack , UI development**
+- 🌱 I’m currently learning **AWS , Azure**
 
 - 💬 Ask me about **HTML,CSS,React, Javascript**
 
