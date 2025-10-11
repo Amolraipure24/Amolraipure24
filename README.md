@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amol Raipure</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-- 🔭 I’m currently working at levon Techno Solutionas as a Full stack developer on **BareKaab** Project
+- 🔭 I’m currently working at levon Techno Solutions as a Java Full stack developer 
 
 - 🌱 I’m currently learning **AWS , Azure**
 
